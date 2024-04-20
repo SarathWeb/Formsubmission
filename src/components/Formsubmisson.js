@@ -167,7 +167,7 @@ import "../../assests/App.css"
                         checked={subjects.english === true}
                         onChange={(e) =>
                             handleSubjectChange("english")
-                        }
+                        }  
                     />
                     English
                     <input
