@@ -1,0 +1,81 @@
+body {
+  text-align: center;
+  background: #f3f3f3;
+}
+
+.App {
+  text-align: center;
+  background-color: #fff;
+  border-radius: 15px;
+  width: 500px;
+  margin: 20px auto auto;
+  padding: 10px 20px;
+  transition: transform .2s;
+  box-shadow: 0 0 20px #0003;
+}
+
+h1 {
+  text-align: center;
+  color: #327c35;
+  font-size: x-large;
+}
+
+fieldset {
+  border: none;
+}
+
+input {
+  box-sizing: border-box;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  width: 100%;
+  padding: 8px;
+  font-size: 12px;
+  display: block;
+}
+
+input[type="radio"], input[type="checkbox"] {
+  width: 10%;
+  display: inline;
+}
+
+select {
+  box-sizing: border-box;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  width: 100%;
+  margin-bottom: 15px;
+  padding: 10px;
+  display: block;
+}
+
+label {
+  text-align: left;
+  color: #555;
+  width: 100%;
+  margin-top: 8px;
+  margin-bottom: 5px;
+  font-size: 15px;
+  font-weight: bold;
+  display: block;
+}
+
+button {
+  color: #fff;
+  cursor: pointer;
+  background-color: #4caf50;
+  border: none;
+  border-radius: 10px;
+  width: 40%;
+  margin: 15px;
+  padding: 15px;
+  font-size: 16px;
+}
+
+textarea {
+  resize: none;
+  width: 98%;
+  min-height: 100px;
+  max-height: 150px;
+}
+/*# sourceMappingURL=index.c41b5a0e.css.map */
